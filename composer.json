@@ -1,4 +1,6 @@
 {
+    "name": "artfull-boy/PHP_DummyPackage",
+    "description" : "A dummy package for testing PHPStan",
     "require-dev": {
         "phpstan/phpstan": "^2.1"
     }
